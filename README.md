@@ -1,9 +1,17 @@
-# Design of Computer Systems (INP)
+# MIPS64 Assembly: Consonant-Modulated Cipher (INP)
 
-A MIPS64 assembly implementation of a consonant-modulated vowel cipher.
+## Overview
+Low-level implementation of a custom cryptographic cipher on the MIPS64 architecture. Demonstrates proficiency in assembly programming, register management, and hardware-software interfacing.
 
-## Course
-FIT VUT in Brno
+## Key Features
+- Implementation of core algorithms and data structures.
+- Academic project focused on efficiency and code quality.
+- Robust error handling and memory management.
+
+## Course Information
+- **Institution:** Faculty of Information Technology, Brno University of Technology (FIT VUT)
+- **Course:** INP
 
 ## Author
-Tomáš Zvoníček (xzvonit00)
+- **Name:** Tomáš Zvoníček
+- **Login:** xzvonit00
